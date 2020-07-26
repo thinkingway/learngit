@@ -1,1 +1,2 @@
 Hello Git.
+github is a good stuff.
